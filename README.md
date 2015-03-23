@@ -1,2 +1,2 @@
 # db-forum
-The forum project used in Udacity's Relational atabases course lesson 3
+The forum project used in Udacity's Relational Databases Course--Lesson 3
